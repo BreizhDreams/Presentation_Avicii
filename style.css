@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+    font-family: Lato, Helvetica, sans-serif;
+
+}
+
+/* TITRE ET IMAGE EN HAUT */
+.titre{
+    width: 200px;
+    margin-left: 750px;
+    margin-top: 45px;
+}
+.symbol{
+    width: 100px;
+    margin-left: 50px;
+    margin-top: 45px;
+}
+.spotify{
+    margin-left: 650px;
+    width: 20px;
+    margin-top: 45px;
+}
+.logo_musique{
+    width: 20px;
+    margin-left: 20px;
+    margin-top: 45px;
+}
+
+/* PREMIERE PARTIE PHOTO ET TEXTE */
+.premierPara{
+    margin-top: 100px;
+    color: white;
+    margin-left: 25px;
+    margin-right: 50px;
+
+}
+.para1{
+    text-align: justify;
+    
+}
+h1{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+h2{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+a:hover{
+    text-decoration: none;
+    color: greenyellow;
+}
+a{
+    color: white;
+}
+
+.photoTim{
+    width: 1750px;
+
+}
+
+
+#copyright{
+    text-align: center;
+}
