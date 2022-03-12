@@ -62,8 +62,33 @@ a{
     height: auto;
 
 }
+.txthistoire{
+    color: white;
+    margin-left: 450px;
+    margin-right: 450px;
+    text-align: justify;
+    margin-bottom: 50px;
+}
+.citation{
+    text-align: center;
+}
 
+.hommage{
+    padding-left: 450px;
+}
+.imghommage{
+    padding-top: 250px;
 
+}
+.txthommage{
+    color: white;
+    text-align: justify;
+    margin-left: 130px;
+    margin-top: 45px;
+}
+.logohommage{
+    margin-left: 160px;
+}
 #copyright{
     text-align: center;
 }
